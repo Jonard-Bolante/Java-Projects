@@ -1,0 +1,8 @@
+10,Sam,Bleeding
+02,Carla,Stroke
+92,Woody,Flu
+11,Diane,High-temperature
+32,Norm,Stomach
+55,Cliff,Broken-bone
+06,Tom,Gun-wounds
+22,Kristen,Pregnancy
